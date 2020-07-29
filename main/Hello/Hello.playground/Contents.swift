@@ -24,12 +24,10 @@ import UIKit
 import RxSwift
 
 let disposeBag = DisposeBag()
-//
-//let disposeBag = DisposeBag()
-//
-//Observable.just("hello world")
-//    .subscribe{print($0)}
-//    .disposed(by:disposeBag)
+
+
+
+
 
 
 
